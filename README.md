@@ -27,9 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
 
-<img align="right" height="140" src="https://avatars.githubusercontent.com/u/186539044?s=400&u=e47961343b67a503485b3d3ac0e2ef67ec6fc95b&v=4"  />
 
 ###
 
@@ -47,9 +45,3 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Swadu11/Swadu11/output/snake.svg" alt="Snake animation" />
-
-###
