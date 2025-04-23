@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Swadeshwar. I have a strong interest in front-end development, especially working with React. I really enjoy turning UI designs into clean, interactive web experiences.</h2>
+<h1 align="left">Hi 👋! I'm Swadeshwar. I have a strong interest in front-end development, especially working with React. I really enjoy turning UI designs into clean, interactive web experiences.</h1>
 
 ###
 
